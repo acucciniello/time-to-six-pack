@@ -1,0 +1,7 @@
+[package]
+name = "time-to-six-pack"
+version = "0.1.0"
+authors = ["Antonio Cucciniello <antonio.cucciniello@reprisedigital.com>"]
+edition = "2018"
+
+[dependencies]
